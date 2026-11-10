@@ -7,7 +7,7 @@
   <a href="https://github.com/csynholic">
     <img src="https://img.shields.io/badge/-github.com-black?style=plastic&amp;logo=github&amp;logoColor=white" alt="github.com" />
   </a>
-  <a href="https://discord.com/users/1388862290622812270">
+  <a href="https://discord.com/users/1551954147958456382">
     <img src="https://img.shields.io/badge/-discord.com-black?style=plastic&amp;logo=discord&amp;logoColor=white" alt="discord.com" />
   </a>
   <a href="https://t.me/cosmin">
