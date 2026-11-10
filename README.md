@@ -1,5 +1,5 @@
  <p align="center">
-  <a href="https://discord.com/users/1388862290622812270">
+  <a href="https://discord.com/users/1551954147958456382">
     <img align="center" src="https://lanyard.kyrie25.dev/api/1388862290622812270?waveColor=222&amp;waveSpotifyColor=212121&amp;gradient=fff&amp;borderRadius=25px&amp;bg=000&amp;animatedDecoration=false&amp;hideNameplate=false&amp;hideTimestamp=true&amp;hideBadges=false&amp;hideActivity=false&amp;hideProfile=false&amp;showDisplayName=false"/>
   </a>
   <br>
